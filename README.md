@@ -1,2 +1,2 @@
-# marinerjackson.github.io
+# http://marinerjackson.github.io
 My website project
